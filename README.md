@@ -1,2 +1,9 @@
 # hello-world
-saying hello to the world (practice)
+Hi.
+
+I am Sam.
+
+Without me,
+its just aweso.
+
+Enough said.
